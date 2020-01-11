@@ -4,8 +4,6 @@ This repository provides a template to easily get started with a dash applicatio
 
 Dependencies: Docker
 
-After downloading the repository, perform the following steps from the root project directory to get the application running.
-
 ### Usage
 Navigate inside the directory of the OS you want to use, such as 'python3.7-alpine3.8'  
 From there, run the following:  
